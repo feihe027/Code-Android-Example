@@ -7,4 +7,5 @@ void main()
 void SetValue(int _nValue)
 {
     int mm = _nValue;
+	// Test Git2
 }
