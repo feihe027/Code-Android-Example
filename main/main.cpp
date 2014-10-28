@@ -8,5 +8,5 @@ void SetValue(int _nValue)
 {
     int mm = _nValue;
 	// Test Git2
-	// Test master3
+	// Test Git2 new
 }
