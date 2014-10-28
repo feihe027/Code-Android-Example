@@ -6,5 +6,5 @@ void main()
 
 void SetValue(int _nValue)
 {
-    int m = _nValue;
+    int mm = _nValue;
 }
